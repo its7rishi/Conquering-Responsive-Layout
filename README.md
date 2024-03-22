@@ -6,12 +6,8 @@ This repository lists all the challenges solved in the course of this 21 Day Cha
 
 To copy this rep
 
-```
-Download zip file
-```
+1. Download zip file
 
 Or
 
-```
-Clone the repository.
-```
+2. Clone the repository.
